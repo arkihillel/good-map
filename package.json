@@ -1,0 +1,19 @@
+{
+  "name": "@hillelarki/good-map",
+  "version": "0.0.1",
+  "description": "A simple custom element wrapper for Google Maps JavaScript API",
+  "main": "good-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkihillel/good-map.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arkihillel/good-map/issues"
+  },
+  "homepage": "https://github.com/arkihillel/good-map#readme"
+}
